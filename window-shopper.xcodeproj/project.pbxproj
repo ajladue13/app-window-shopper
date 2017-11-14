@@ -54,14 +54,22 @@
 		146069981FBA90EA009CE00A /* window-shopper */ = {
 			isa = PBXGroup;
 			children = (
+				146069AB1FBA9473009CE00A /* Controller */,
 				146069991FBA90EA009CE00A /* AppDelegate.swift */,
-				1460699B1FBA90EA009CE00A /* ViewController.swift */,
 				1460699D1FBA90EA009CE00A /* Main.storyboard */,
 				146069A01FBA90EA009CE00A /* Assets.xcassets */,
 				146069A21FBA90EA009CE00A /* LaunchScreen.storyboard */,
 				146069A51FBA90EA009CE00A /* Info.plist */,
 			);
 			path = "window-shopper";
+			sourceTree = "<group>";
+		};
+		146069AB1FBA9473009CE00A /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				1460699B1FBA90EA009CE00A /* ViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
