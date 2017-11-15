@@ -67,6 +67,7 @@
 				146069981FBA90EA009CE00A /* window-shopper */,
 				14B44FA21FBBEA3200E29A92 /* window-shopperTests */,
 				146069971FBA90EA009CE00A /* Products */,
+				1460699D1FBA90EA009CE00A /* Main.storyboard */,
 			);
 			sourceTree = "<group>";
 		};
@@ -86,7 +87,6 @@
 				146069AC1FBA9901009CE00A /* Views */,
 				146069AB1FBA9473009CE00A /* Controller */,
 				146069991FBA90EA009CE00A /* AppDelegate.swift */,
-				1460699D1FBA90EA009CE00A /* Main.storyboard */,
 				146069A01FBA90EA009CE00A /* Assets.xcassets */,
 				146069A21FBA90EA009CE00A /* LaunchScreen.storyboard */,
 				146069A51FBA90EA009CE00A /* Info.plist */,
